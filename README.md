@@ -1,36 +1,7 @@
-# frontend
-
-## vs-code extensions
+# 개발일지
+## 01일
 ```
-ESLint
-Volar
-Vue VS Code Extension Pack
-Vue VSCode Snippets
+원래 코드에서 가져와서 하는 거 실패함   
+일단 Chat Gpt를 이용해서 원하는 목표 구현 후 원래 디자인 구축해야됨
+개발자: 조동휘
 ```
-
-## pritter eslint seting
-```
-[외부 링크]: (https://velog.io/@korjsh/vue.js-vscode-eslint-prettier-%EC%84%A4%EC%A0%95)
-```
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
