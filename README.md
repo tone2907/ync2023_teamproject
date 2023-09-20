@@ -10,7 +10,7 @@ Vue VSCode Snippets
 
 ## pritter eslint seting
 ```
-https://velog.io/@korjsh/vue.js-vscode-eslint-prettier-%EC%84%A4%EC%A0%95
+[외부 링크]: (https://velog.io/@korjsh/vue.js-vscode-eslint-prettier-%EC%84%A4%EC%A0%95)
 ```
 ## Project setup
 ```
