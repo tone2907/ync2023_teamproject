@@ -3,7 +3,17 @@
 		<div className="home-container"></div>
 	</div>
 	<footer class="container">
-		<font color="gray"><small>Copyright &copy;2023 YNC</small></font>
+		<div style="width: 50%; float: left; text-align: left">
+			<font color="gray"><small>Copyright &copy;2023 YNC</small></font>
+		</div>
+		<div style="width: 50%; float: right; text-align: right">
+			<font color="gray"
+				><small
+					><b>All Rights Reserved |</b> <u>Terms and Conditions</u> <b> | </b>
+					<u>Privacy Policy</u></small
+				></font
+			>
+		</div>
 	</footer>
 </template>
 
@@ -30,7 +40,7 @@ footer {
 
 	display: flex;
 	align-items: center;
-	justify-content: left;
+
 	background-color: #fff;
 }
 </style>
