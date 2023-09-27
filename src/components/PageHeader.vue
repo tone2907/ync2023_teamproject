@@ -130,4 +130,33 @@
 	<div class="border-bottom border-2 border-primary opacity-1"></div>
 </template>
 
-<style scoped></style>
+<style scoped>
+/* 드롭다운 메뉴 스타일 */
+.dropdown-menu {
+	background-color: #fff; /* 드롭다운 배경색 */
+	border: 1px solid #ccc; /* 드롭다운 테두리 */
+}
+
+.dropdown-item {
+	color: #333; /* 드롭다운 항목 텍스트 색상 */
+	font-size: 16px; /* 드롭다운 항목 글꼴 크기 */
+	padding: 10px 20px; /* 드롭다운 항목 패딩 */
+	text-decoration: none; /* 드롭다운 항목에 밑줄 제거 */
+}
+
+.dropdown-item:hover {
+	background-color: #f0f0f0; /* 드롭다운 항목에 마우스 호버시 배경색 */
+}
+
+/* 드롭다운 서브메뉴 스타일 */
+.dropdown-submenu .dropdown-menu {
+	left: 100%; /* 드롭다운 서브메뉴를 오른쪽에 표시 */
+	top: 0;
+	background-color: #fff; /* 드롭다운 배경색 */
+	border: 1px solid #ccc; /* 드롭다운 테두리 */
+}
+
+.dropdown-submenu:hover .dropdown-menu {
+	display: block; /* 호버시 서브메뉴 표시 */
+}
+</style>

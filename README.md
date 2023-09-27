@@ -7,6 +7,7 @@
 ```
 ## 02일
 ```
-Header , Footer 틀 제작함
+Header , Footer 틀 제작
+
 개발자: 유한솔
 ```
